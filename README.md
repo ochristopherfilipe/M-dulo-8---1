@@ -26,7 +26,7 @@ Além disso, foram gerados gráficos que mostram a distribuição de algumas var
 
 # Como utilizar
 
-Para utilizar o modelo em produção, basta rodas as células em ordem.
+Para utilizar o modelo, basta rodar as células em ordem.
 
 # Conclusão
 
